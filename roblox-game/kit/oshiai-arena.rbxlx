@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8"?>
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+<External>null</External>
+<External>nil</External>
+<Item class="Workspace" referent="RBX00000000000000000000000000000011"><Properties><string name="Name">Workspace</string></Properties><Item class="Part" referent="RBX00000000000000000000000000000001"><Properties><string name="Name">Baseplate</string><bool name="Anchored">true</bool><bool name="CanCollide">true</bool><float name="Transparency">0</float><Vector3 name="size"><X>220</X><Y>1</Y><Z>220</Z></Vector3><CoordinateFrame name="CFrame"><X>0</X><Y>-0.5</Y><Z>0</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame></Properties></Item><Item class="Part" referent="RBX00000000000000000000000000000002"><Properties><string name="Name">Ring</string><bool name="Anchored">true</bool><bool name="CanCollide">true</bool><float name="Transparency">0</float><Vector3 name="size"><X>44</X><Y>2</Y><Z>44</Z></Vector3><CoordinateFrame name="CFrame"><X>0</X><Y>16</Y><Z>0</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame></Properties></Item><Item class="SpawnLocation" referent="RBX00000000000000000000000000000003"><Properties><string name="Name">LobbySpawn</string><bool name="Anchored">true</bool><bool name="CanCollide">true</bool><float name="Transparency">0</float><Vector3 name="size"><X>8</X><Y>1</Y><Z>8</Z></Vector3><CoordinateFrame name="CFrame"><X>-40</X><Y>0.5</Y><Z>-40</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame><bool name="Neutral">true</bool></Properties></Item><Item class="Part" referent="RBX00000000000000000000000000000004"><Properties><string name="Name">ArenaSpawn1</string><bool name="Anchored">true</bool><bool name="CanCollide">false</bool><float name="Transparency">0.5</float><Vector3 name="size"><X>4</X><Y>1</Y><Z>4</Z></Vector3><CoordinateFrame name="CFrame"><X>10</X><Y>17.5</Y><Z>10</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame></Properties></Item><Item class="Part" referent="RBX00000000000000000000000000000005"><Properties><string name="Name">ArenaSpawn2</string><bool name="Anchored">true</bool><bool name="CanCollide">false</bool><float name="Transparency">0.5</float><Vector3 name="size"><X>4</X><Y>1</Y><Z>4</Z></Vector3><CoordinateFrame name="CFrame"><X>-10</X><Y>17.5</Y><Z>10</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame></Properties></Item><Item class="Part" referent="RBX00000000000000000000000000000006"><Properties><string name="Name">ArenaSpawn3</string><bool name="Anchored">true</bool><bool name="CanCollide">false</bool><float name="Transparency">0.5</float><Vector3 name="size"><X>4</X><Y>1</Y><Z>4</Z></Vector3><CoordinateFrame name="CFrame"><X>10</X><Y>17.5</Y><Z>-10</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame></Properties></Item><Item class="Part" referent="RBX00000000000000000000000000000007"><Properties><string name="Name">ArenaSpawn4</string><bool name="Anchored">true</bool><bool name="CanCollide">false</bool><float name="Transparency">0.5</float><Vector3 name="size"><X>4</X><Y>1</Y><Z>4</Z></Vector3><CoordinateFrame name="CFrame"><X>-10</X><Y>17.5</Y><Z>-10</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame></Properties></Item><Item class="Part" referent="RBX00000000000000000000000000000008"><Properties><string name="Name">Pad_Dash</string><bool name="Anchored">true</bool><bool name="CanCollide">true</bool><float name="Transparency">0</float><Vector3 name="size"><X>6</X><Y>1</Y><Z>6</Z></Vector3><CoordinateFrame name="CFrame"><X>-40</X><Y>0.5</Y><Z>-24</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame></Properties></Item><Item class="Part" referent="RBX00000000000000000000000000000009"><Properties><string name="Name">Pad_Power</string><bool name="Anchored">true</bool><bool name="CanCollide">true</bool><float name="Transparency">0</float><Vector3 name="size"><X>6</X><Y>1</Y><Z>6</Z></Vector3><CoordinateFrame name="CFrame"><X>-49</X><Y>0.5</Y><Z>-40</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame></Properties></Item><Item class="Part" referent="RBX00000000000000000000000000000010"><Properties><string name="Name">Pad_Anchor</string><bool name="Anchored">true</bool><bool name="CanCollide">true</bool><float name="Transparency">0</float><Vector3 name="size"><X>6</X><Y>1</Y><Z>6</Z></Vector3><CoordinateFrame name="CFrame"><X>-31</X><Y>0.5</Y><Z>-40</Z><R00>1</R00><R01>0</R01><R02>0</R02><R10>0</R10><R11>1</R11><R12>0</R12><R20>0</R20><R21>0</R21><R22>1</R22></CoordinateFrame></Properties></Item></Item>
+<Item class="ReplicatedStorage" referent="RBX00000000000000000000000000000012"><Properties><string name="Name">ReplicatedStorage</string></Properties></Item>
+<Item class="ServerScriptService" referent="RBX00000000000000000000000000000018"><Properties><string name="Name">ServerScriptService</string></Properties><Item class="ModuleScript" referent="RBX00000000000000000000000000000013"><Properties><string name="Name">GameData</string><ProtectedString name="Source">-- GameData（ModuleScript）
+-- 置く場所：ServerScriptService の中に ModuleScript を作り、名前を「GameData」にして、この中身を貼る
+-- 役目：コインの管理と保存（DataStore）、無料コードの判定
+
+local GameData = {}
+
+local DataStoreService = game:GetService("DataStoreService")
+local store = DataStoreService:GetDataStore("BattleGame_v1")
+
+-- 無料コードと、もらえるコイン。公開するときに好きな言葉に変えてOK
+local CODES = {
+	["RELEASE"] = 100,
+	["START"] = 50,
+}
+
+local data = {} -- [player] = { Coins = 数, UsedCodes = { コード = true } }
+
+function GameData.Load(player)
+	local d = { Coins = 0, UsedCodes = {} }
+	local ok, saved = pcall(function()
+		return store:GetAsync("u_" .. player.UserId)
+	end)
+	if ok and type(saved) == "table" then
+		d = saved
+	end
+	data[player] = d
+
+	player:SetAttribute("Ability", "Dash") -- 最初の能力はダッシュ
+
+	local leaderstats = Instance.new("Folder")
+	leaderstats.Name = "leaderstats"
+	leaderstats.Parent = player
+
+	local coins = Instance.new("IntValue")
+	coins.Name = "Coins"
+	coins.Value = d.Coins
+	coins.Parent = leaderstats
+
+	return d
+end
+
+function GameData.AddCoins(player, amount)
+	local d = data[player]
+	if not d then return end
+	d.Coins += amount
+	local leaderstats = player:FindFirstChild("leaderstats")
+	local coins = leaderstats and leaderstats:FindFirstChild("Coins")
+	if coins then
+		coins.Value = d.Coins
+	end
+end
+
+function GameData.Redeem(player, code)
+	code = string.upper(tostring(code or ""))
+	local reward = CODES[code]
+	if not reward then
+		return false, "コードが違うみたいです"
+	end
+	local d = data[player]
+	if not d then
+		return false, "読み込み中です。少し待ってください"
+	end
+	if d.UsedCodes[code] then
+		return false, "このコードはもう使っています"
+	end
+	d.UsedCodes[code] = true
+	GameData.AddCoins(player, reward)
+	return true, reward .. " コインもらいました！"
+end
+
+function GameData.Save(player)
+	local d = data[player]
+	if not d then return end
+	pcall(function()
+		store:SetAsync("u_" .. player.UserId, d)
+	end)
+	data[player] = nil
+end
+
+return GameData
+</ProtectedString></Properties></Item><Item class="Script" referent="RBX00000000000000000000000000000014"><Properties><string name="Name">PlayerData</string><ProtectedString name="Source">-- PlayerData（Script）
+-- 置く場所：ServerScriptService の中に Script を作り、名前を「PlayerData」にして、この中身を貼る
+-- 役目：プレイヤーが入ったとき・出るときに、コインを読み書きする。コード入力の受け付けも用意する
+
+local Players = game:GetService("Players")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local GameData = require(script.Parent:WaitForChild("GameData"))
+
+Players.PlayerAdded:Connect(function(player)
+	GameData.Load(player)
+end)
+
+Players.PlayerRemoving:Connect(function(player)
+	GameData.Save(player)
+end)
+
+game:BindToClose(function()
+	for _, player in Players:GetPlayers() do
+		GameData.Save(player)
+	end
+end)
+
+-- コード入力用の RemoteFunction を用意（クライアントの入力欄から呼ばれる）
+local redeem = Instance.new("RemoteFunction")
+redeem.Name = "RedeemCode"
+redeem.Parent = ReplicatedStorage
+redeem.OnServerInvoke = function(player, code)
+	return GameData.Redeem(player, code)
+end
+</ProtectedString></Properties></Item><Item class="Script" referent="RBX00000000000000000000000000000015"><Properties><string name="Name">RoundManager</string><ProtectedString name="Source">-- RoundManager（Script）
+-- 置く場所：ServerScriptService の中に Script を作り、名前を「RoundManager」にして、この中身を貼る
+-- 役目：試合の進行役。ロビーで待つ → カウントダウン → 試合 → 落ちたら負け → 最後の1人が勝ち → ロビーへ戻る、を繰り返す
+
+local Players = game:GetService("Players")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local GameData = require(script.Parent:WaitForChild("GameData"))
+
+-- 調整できる数字（ここだけ直せばゲームの性格が変わります）
+local CONFIG = {
+	MIN_PLAYERS = 2,    -- 試合を始める最少人数
+	COUNTDOWN_TIME = 3, -- カウントダウンの秒数
+	MATCH_TIME = 180,   -- 試合の制限時間（秒）
+	JOIN_COINS = 10,    -- 参加した全員がもらえるコイン
+	WIN_COINS = 50,     -- 勝った人がもらえるコイン
+	FALL_MARGIN = 12,   -- 土俵（Ring）よりこの高さぶん下に落ちたら負け
+}
+
+local lobbySpawn = workspace:WaitForChild("LobbySpawn")
+local ring = workspace:WaitForChild("Ring")
+local arenaSpawns = {}
+for i = 1, 8 do
+	local s = workspace:FindFirstChild("ArenaSpawn" .. i)
+	if s then
+		table.insert(arenaSpawns, s)
+	end
+end
+
+-- 画面上の案内表示（クライアントが読む）
+local status = Instance.new("StringValue")
+status.Name = "MatchStatus"
+status.Value = "ロビーで待っています"
+status.Parent = ReplicatedStorage
+
+local alive = {} -- 試合に残っている人 [player] = true
+local running = false
+
+local function setStatus(text)
+	status.Value = text
+end
+
+local function teleport(player, part)
+	local char = player.Character
+	local hrp = char and char:FindFirstChild("HumanoidRootPart")
+	if hrp and part then
+		hrp.CFrame = part.CFrame + Vector3.new(0, 3, 0)
+		hrp.AssemblyLinearVelocity = Vector3.zero
+	end
+end
+
+local function aliveCount()
+	local n = 0
+	for _ in alive do
+		n += 1
+	end
+	return n
+end
+
+Players.PlayerRemoving:Connect(function(player)
+	alive[player] = nil
+end)
+
+local function runMatch()
+	if #arenaSpawns == 0 then
+		setStatus("ArenaSpawn がありません。SETUPの手順を確認してください")
+		return
+	end
+	running = true
+
+	local fighters = Players:GetPlayers()
+	for i, player in fighters do
+		alive[player] = true
+		teleport(player, arenaSpawns[((i - 1) % #arenaSpawns) + 1])
+		GameData.AddCoins(player, CONFIG.JOIN_COINS)
+	end
+
+	for t = CONFIG.COUNTDOWN_TIME, 1, -1 do
+		setStatus("試合開始まで " .. t)
+		task.wait(1)
+	end
+	setStatus("試合中！ 土俵に最後まで残ろう")
+
+	local elapsed = 0
+	while aliveCount() &gt; 1 and elapsed &lt; CONFIG.MATCH_TIME do
+		task.wait(0.3)
+		elapsed += 0.3
+		for player in alive do
+			local char = player.Character
+			local hrp = char and char:FindFirstChild("HumanoidRootPart")
+			if hrp and hrp.Position.Y &lt; ring.Position.Y - CONFIG.FALL_MARGIN then
+				alive[player] = nil
+				teleport(player, lobbySpawn)
+				setStatus(player.DisplayName .. " が落ちた！ 残り " .. aliveCount() .. " 人")
+			end
+		end
+	end
+
+	local winner = nil
+	for player in alive do
+		winner = player
+	end
+	if winner and aliveCount() == 1 then
+		GameData.AddCoins(winner, CONFIG.WIN_COINS)
+		setStatus("勝ちは " .. winner.DisplayName .. "！ +" .. CONFIG.WIN_COINS .. " コイン")
+	else
+		setStatus("時間切れ！ 引き分けです")
+	end
+
+	table.clear(alive)
+	task.wait(5)
+	for _, player in Players:GetPlayers() do
+		teleport(player, lobbySpawn)
+	end
+	running = false
+end
+
+while true do
+	local n = #Players:GetPlayers()
+	if n &gt;= CONFIG.MIN_PLAYERS and not running then
+		setStatus("まもなく試合が始まります")
+		task.wait(2)
+		if #Players:GetPlayers() &gt;= CONFIG.MIN_PLAYERS then
+			runMatch()
+		end
+	else
+		setStatus("ロビーで待っています（あと " .. math.max(0, CONFIG.MIN_PLAYERS - n) .. " 人で開始）")
+		task.wait(1)
+	end
+end
+</ProtectedString></Properties></Item><Item class="Script" referent="RBX00000000000000000000000000000016"><Properties><string name="Name">ShoveServer</string><ProtectedString name="Source">-- ShoveServer（Script）
+-- 置く場所：ServerScriptService の中に Script を作り、名前を「ShoveServer」にして、この中身を貼る
+-- 役目：「おす」攻撃と、能力（ダッシュ／パワー／アンカー）の処理
+
+local Players = game:GetService("Players")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+
+local shoveEvent = Instance.new("RemoteEvent")
+shoveEvent.Name = "ShoveEvent"
+shoveEvent.Parent = ReplicatedStorage
+
+local abilityEvent = Instance.new("RemoteEvent")
+abilityEvent.Name = "AbilityEvent"
+abilityEvent.Parent = ReplicatedStorage
+
+-- 調整できる数字
+local SHOVE_RANGE = 7      -- 「おす」が届く距離
+local SHOVE_POWER = 60     -- 押す力
+local SHOVE_COOLDOWN = 0.8 -- 「おす」の間隔（秒）
+local ABILITY_COOLDOWN = 8 -- 能力の間隔（秒）
+
+local lastShove = {}
+local lastAbility = {}
+
+local function hrpOf(player)
+	local char = player.Character
+	return char and char:FindFirstChild("HumanoidRootPart")
+end
+
+local function push(target, fromPos, power)
+	if target:GetAttribute("Anchored") then
+		return -- アンカー中は押し出されない
+	end
+	local hrp = hrpOf(target)
+	if not hrp then return end
+	local dir = hrp.Position - fromPos
+	dir = Vector3.new(dir.X, 0, dir.Z)
+	if dir.Magnitude &gt; 0.1 then
+		dir = dir.Unit
+	else
+		dir = Vector3.new(1, 0, 0)
+	end
+	local m = hrp.AssemblyMass
+	hrp:ApplyImpulse(dir * power * m + Vector3.new(0, power * 0.3 * m, 0))
+end
+
+shoveEvent.OnServerEvent:Connect(function(player)
+	local now = os.clock()
+	if lastShove[player] and now - lastShove[player] &lt; SHOVE_COOLDOWN then return end
+	lastShove[player] = now
+
+	local hrp = hrpOf(player)
+	if not hrp then return end
+
+	local power = SHOVE_POWER
+	if player:GetAttribute("PowerReady") then
+		power = power * 1.8 -- パワー能力の効果中は強く押す
+	end
+
+	for _, other in Players:GetPlayers() do
+		if other ~= player then
+			local o = hrpOf(other)
+			if o and (o.Position - hrp.Position).Magnitude &lt;= SHOVE_RANGE then
+				push(other, hrp.Position, power)
+			end
+		end
+	end
+end)
+
+abilityEvent.OnServerEvent:Connect(function(player)
+	local now = os.clock()
+	if lastAbility[player] and now - lastAbility[player] &lt; ABILITY_COOLDOWN then return end
+
+	local hrp = hrpOf(player)
+	if not hrp then return end
+	lastAbility[player] = now
+
+	local ability = player:GetAttribute("Ability") or "Dash"
+	if ability == "Dash" then
+		-- 逃げる：向いている方向へ勢いよく進む
+		local look = hrp.CFrame.LookVector
+		local dir = Vector3.new(look.X, 0, look.Z)
+		if dir.Magnitude &gt; 0.1 then
+			hrp:ApplyImpulse(dir.Unit * 70 * hrp.AssemblyMass)
+		end
+	elseif ability == "Power" then
+		-- 押し出す：5秒間、「おす」が強くなる
+		player:SetAttribute("PowerReady", true)
+		task.delay(5, function()
+			player:SetAttribute("PowerReady", false)
+		end)
+	elseif ability == "Anchor" then
+		-- 耐える：3秒間、押し出されなくなる
+		player:SetAttribute("Anchored", true)
+		task.delay(3, function()
+			player:SetAttribute("Anchored", false)
+		end)
+	end
+end)
+</ProtectedString></Properties></Item><Item class="Script" referent="RBX00000000000000000000000000000017"><Properties><string name="Name">AbilityPads</string><ProtectedString name="Source">-- AbilityPads（Script）
+-- 置く場所：ServerScriptService の中に Script を作り、名前を「AbilityPads」にして、この中身を貼る
+-- 役目：ロビーにある3つの台（Pad_Dash / Pad_Power / Pad_Anchor）に乗ると、その能力に決まる
+
+local Players = game:GetService("Players")
+
+local pads = {
+	Pad_Dash = "Dash",     -- 逃げる
+	Pad_Power = "Power",   -- 押し出す
+	Pad_Anchor = "Anchor", -- 耐える
+}
+
+local lastTouch = {}
+
+for name, ability in pads do
+	local pad = workspace:FindFirstChild(name)
+	if pad then
+		pad.Touched:Connect(function(hit)
+			local char = hit.Parent
+			local player = char and Players:GetPlayerFromCharacter(char)
+			if not player then return end
+			local now = os.clock()
+			if lastTouch[player] and now - lastTouch[player] &lt; 1 then return end
+			lastTouch[player] = now
+			player:SetAttribute("Ability", ability)
+		end)
+	else
+		warn(name .. " が見つかりません。SETUPの手順で台を作ってください")
+	end
+end
+</ProtectedString></Properties></Item></Item>
+<Item class="StarterPlayer" referent="RBX00000000000000000000000000000021"><Properties><string name="Name">StarterPlayer</string></Properties><Item class="StarterPlayerScripts" referent="RBX00000000000000000000000000000019"><Properties><string name="Name">StarterPlayerScripts</string></Properties><Item class="LocalScript" referent="RBX00000000000000000000000000000020"><Properties><string name="Name">ClientControls</string><ProtectedString name="Source">-- ClientControls（LocalScript）
+-- 置く場所：StarterPlayerScripts の中に LocalScript を作り、名前を「ClientControls」にして、この中身を貼る
+-- 役目：操作（おす＝Fキー／能力＝Qキー、スマホでは画面ボタン）、案内表示、コード入力欄
+
+local Players = game:GetService("Players")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local ContextActionService = game:GetService("ContextActionService")
+
+local player = Players.LocalPlayer
+
+local shoveEvent = ReplicatedStorage:WaitForChild("ShoveEvent")
+local abilityEvent = ReplicatedStorage:WaitForChild("AbilityEvent")
+local redeem = ReplicatedStorage:WaitForChild("RedeemCode")
+local status = ReplicatedStorage:WaitForChild("MatchStatus")
+
+-- 操作：Fキー＝おす、Qキー＝能力。スマホでは画面にボタンが出ます
+local function onShove(_, inputState)
+	if inputState == Enum.UserInputState.Begin then
+		shoveEvent:FireServer()
+	end
+end
+local function onAbility(_, inputState)
+	if inputState == Enum.UserInputState.Begin then
+		abilityEvent:FireServer()
+	end
+end
+ContextActionService:BindAction("Shove", onShove, true, Enum.KeyCode.F)
+ContextActionService:SetTitle("Shove", "おす")
+ContextActionService:BindAction("Ability", onAbility, true, Enum.KeyCode.Q)
+ContextActionService:SetTitle("Ability", "能力")
+
+-- 画面の部品を用意
+local gui = Instance.new("ScreenGui")
+gui.Name = "BattleUI"
+gui.ResetOnSpawn = false
+gui.Parent = player:WaitForChild("PlayerGui")
+
+-- 上の案内表示
+local label = Instance.new("TextLabel")
+label.Size = UDim2.new(0.8, 0, 0, 44)
+label.Position = UDim2.new(0.1, 0, 0, 12)
+label.BackgroundTransparency = 0.35
+label.BackgroundColor3 = Color3.fromRGB(20, 20, 30)
+label.TextColor3 = Color3.new(1, 1, 1)
+label.Font = Enum.Font.GothamBold
+label.TextScaled = true
+label.Text = status.Value
+label.Parent = gui
+status:GetPropertyChangedSignal("Value"):Connect(function()
+	label.Text = status.Value
+end)
+
+-- コード入力欄（左下）
+local box = Instance.new("TextBox")
+box.PlaceholderText = "コードを入力"
+box.Text = ""
+box.Size = UDim2.new(0, 170, 0, 36)
+box.Position = UDim2.new(0, 12, 1, -48)
+box.Font = Enum.Font.Gotham
+box.TextScaled = true
+box.Parent = gui
+
+local button = Instance.new("TextButton")
+button.Text = "コードを使う"
+button.Size = UDim2.new(0, 110, 0, 36)
+button.Position = UDim2.new(0, 190, 1, -48)
+button.Font = Enum.Font.GothamBold
+button.TextScaled = true
+button.Parent = gui
+
+local message = Instance.new("TextLabel")
+message.Size = UDim2.new(0, 320, 0, 30)
+message.Position = UDim2.new(0, 12, 1, -86)
+message.BackgroundTransparency = 1
+message.TextColor3 = Color3.fromRGB(255, 230, 120)
+message.Font = Enum.Font.GothamBold
+message.TextScaled = true
+message.Text = ""
+message.Parent = gui
+
+button.Activated:Connect(function()
+	if box.Text == "" then return end
+	local _, text = redeem:InvokeServer(box.Text)
+	message.Text = text or ""
+	box.Text = ""
+	task.delay(4, function()
+		message.Text = ""
+	end)
+end)
+</ProtectedString></Properties></Item></Item></Item>
+<Item class="Lighting" referent="RBX00000000000000000000000000000022"><Properties><string name="Name">Lighting</string></Properties></Item>
+</roblox>
